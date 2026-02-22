@@ -1,0 +1,8 @@
+REQUIREMENTS FILES
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
